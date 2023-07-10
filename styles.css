@@ -1,0 +1,115 @@
+body{
+    background-color:#e5e4e2;
+    font-family:sans-serif;
+  }
+  img{
+    display:block;
+    width:150px;
+    margin-left:50px;
+  }
+  
+  h1{
+  font-weight:normal; 
+  font-size:30px;
+   text-align:center;
+  }
+  
+  form{
+   background-color:white;
+   width:320px;
+   height:330px;
+   border-radius:10px;
+   padding:30px;
+   margin-left:auto;
+   margin-right:auto;
+  }
+  
+  .label-mail{
+    font-size:12px;
+    font-weight:normal;
+    color:#696969;
+   
+  }
+  .mail-pass{
+    display:block;
+    font-size:15px;
+    font-weight:normal;
+    height:25px;
+    width:310px;
+    border-radius:5px;
+    border:1px solid black;
+    padding:2px 4px;
+     margin-top:5px;
+    margin-bottom:10px
+  }
+  
+  .label-pass{
+   font-size:12px;
+    font-weight:normal;
+    color:#696969; 
+  }
+  
+  .click{
+    font-size:12px;
+    font-weight:normal;
+     color:#696969;
+    text-align:center;
+  }
+  
+  .btn-AJ{
+   font-size:15px;
+    font-weight:normal;
+    height:45px;
+    width:320px;
+    border-radius:25px;
+    border:none;
+    padding:2px 4px;
+    color:white;
+    background-color:blue;
+    margin-top:5px;
+    margin-bottom:5px;
+  }
+  .hr-or{
+    display:flex; 
+  }
+  
+  hr{
+  width:130px;
+  border:1px solid #dcdcdc;
+  margin-top:10px;
+  }
+  .google-logo{
+    width:25px; 
+    margin-bottom:-21px;
+    margin-left:25px;
+  }
+  .btn-google{
+    background-color:#e0ffff;
+     border-radius:25px;
+    border:1px solid #afeeee;
+    height:40px;
+    width:250px;
+    font-size:15px;
+    font-weight:normal;
+     color:#696969;
+    margin-left:30px;
+    margin-right:30px;
+     padding-top:0;
+    padding-bottom:2px;
+   margin-top:5px;
+    margin-bottom:5px; 
+    
+  }
+  /* .google-sign{
+    display:flex;
+  } */
+  
+  .already{
+    text-align:center;
+  }
+  .get-help{
+  font-weight:normal; 
+  font-size:15px;
+   text-align:center;
+  }
+  
